@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/grafana/k6foundry/cmd"
+	"github.com/quantumew/k6foundry/cmd"
 )
 
 //nolint:all

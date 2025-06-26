@@ -8,8 +8,8 @@ import (
 	"log/slog"
 	"os"
 
-	"github.com/grafana/k6foundry"
-	"github.com/grafana/k6foundry/pkg/util"
+	"github.com/quantumew/k6foundry"
+	"github.com/quantumew/k6foundry/pkg/util"
 
 	"github.com/spf13/cobra"
 )

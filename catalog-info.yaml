@@ -6,7 +6,7 @@ metadata:
   description: |
     k6foundry is a CLI for building custom k6 binaries with extensions.
   annotations:
-    github.com/project-slug: grafana/k6foundry
+    github.com/project-slug: quantumew/k6foundry
 spec:
   type: tool
   owner: group:default/k6-extensions

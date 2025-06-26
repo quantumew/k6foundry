@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/grafana/k6foundry/pkg/testutils/goproxy"
+	"github.com/quantumew/k6foundry/pkg/testutils/goproxy"
 )
 
 func TestBuild(t *testing.T) {
